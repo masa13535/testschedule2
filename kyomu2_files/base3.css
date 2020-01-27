@@ -1,0 +1,130 @@
+﻿
+#MainContents {
+    background-color: #EAEDF1;
+}
+.typeWhite {
+    border-top-color: #EAEDF1;
+    border-right-color: #EAEDF1;
+}
+
+
+.stageMain
+{
+	background-color: #D4E3F5;
+}
+
+
+.tableSet01 table
+{
+	border-width: 1px 1px 1px 1px;
+	border-color: #6085B1;
+}
+
+.tableSet01 th
+{
+	border-color: #6085B1;
+}
+
+.tableSet01 td
+{
+	border-color: #688DB9;
+}
+
+
+h1
+{
+    background-color: #24649A;
+    margin-bottom: 15px;
+    background-image: none;
+    -moz-box-shadow: 0px 3px 4px #aaa;
+    -webkit-box-shadow: 0px 3px 6px #aaa;
+}
+
+
+h2
+{
+    background-color: #FFFFFF;
+    margin-bottom: 10px;
+    border-right: solid 1px #d0d7de;
+    border-bottom: solid 1px #d0d7de;
+    -moz-box-shadow: 1px 3px 5px #ddd;
+    -webkit-box-shadow: 1px 3px 5px #ddd;
+}
+
+.tableSet02 h2,.tableSet02noTable h2
+{
+    border-right: none;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+}
+
+.pickUp, .pickUp1
+{
+    background-color: #FFFFFF;
+    border-color: #DAC9B9;
+    padding: 3px 5px;
+}
+
+.userStatus
+{
+    background: linear-gradient(to bottom, #10125D, #1A447B);
+}
+
+.downloadCheck
+{
+    -moz-box-shadow: 0px 3px 4px rgba(0,0,0,0.1);
+    -webkit-box-shadow: 0px 3px 6px rgba(0,0,0,0.1);
+}
+
+
+.menuLv1 {
+    padding-left: 4px;
+}
+
+.menuSet
+{
+    padding-left: 0px;
+}
+.menuSet a
+{
+    padding-left: 20px;
+    background-position: 3px 6px;
+}
+
+.sideMenu .menuLv2{
+    /*background: linear-gradient(to bottom, #C4D7EF, #D4E3F5);*/
+}
+.sideMenu .menuLv2 a:hover, .menuLv3 a:hover, .menuLv4 a:hover
+{
+	background-color: #e7f2fb;
+	border-right: solid 4px #ff8800;
+}
+
+.menuLv3{
+    border-color: #93b8ec;
+    background: linear-gradient(to right, #D4E3F5, #C4D7EF);
+}
+.menuLv3 a {
+    background-image: url(../../img/linkIcon2.gif);
+}
+
+.menuLv4{
+    border-color: #93b8ec;
+    border-top-style: solid;
+    border-top-width: 1px;
+    background: linear-gradient(to right, #D4E3F5, #C4D7EF);
+}
+.menuLv4 a{
+	background-image: url(../../img/linkIcon2.gif);
+}
+
+
+.linkBoxLeft ul, .linkBoxRight ul {
+    background-color: #ffffff;
+}
+
+
+div#divOsirase
+{
+    background-color: #ffffff;
+}

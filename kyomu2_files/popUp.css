@@ -1,0 +1,28 @@
+#stage {
+	width: 740px;
+	background-image: none;
+}
+
+#header {
+	height: 30px;
+	width: 720px;
+	padding-left: 20px;
+}
+#logo {
+	width: 186px;
+	margin-top: 5px;
+}
+
+#userStatus {
+	padding-top: 10px;
+	width: 490px;
+}
+#mainContents {
+	clear: both;
+	padding-right: 0px;
+	float: none;
+	padding-left: 20px;
+}
+#footer {
+	width: 715px;
+}
